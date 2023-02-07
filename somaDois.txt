@@ -1,0 +1,6 @@
+ME 5
+ME 6
+LDA 1
+ADD 2
+STA 3
+HLT
